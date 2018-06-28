@@ -3,7 +3,7 @@
 
 快速启动：按照官网例程，结合自己的使用经验，整理了一版快速project
 
-note - celery_note.md 中记录了一些更为详细的celery应用事项，同时也有官网demo的优化应用方式
+[celery_note.md](https://github.com/robot-shen/Celery_django_quick_start/blob/master/note/celery_note.md) 中记录了一些更为详细的celery应用事项，同时也有官网demo的优化应用方式
 
 相关教程：[博客 - clery 抽筋扒皮]()
 
