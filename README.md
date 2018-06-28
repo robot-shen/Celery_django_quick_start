@@ -5,7 +5,7 @@
 
 [celery_note.md](https://github.com/robot-shen/Celery_django_quick_start/blob/master/note/celery_note.md) 中记录了一些更为详细的celery应用事项，同时也有官网demo的优化应用方式
 
-相关教程：[博客 - clery 抽筋扒皮]()
+相关教程：[博客 - clery (未更新)](http://www.cnblogs.com/jinshen/)
 
 [文档：Using Celery with Django 3.1 旧版](http://docs.jinkan.org/docs/celery/django/first-steps-with-django.html)
 
