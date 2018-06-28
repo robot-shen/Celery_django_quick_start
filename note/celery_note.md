@@ -1,6 +1,6 @@
 
 # 一、介绍
-详见【理解celery.md】 文件
+详见[理解celery.md](https://github.com/robot-shen/Celery_django_quick_start/blob/master/note/%E7%90%86%E8%A7%A3celery.md) 文件
 
 # 二、上手使用
 
